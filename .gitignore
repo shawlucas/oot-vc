@@ -10,6 +10,7 @@ tools/elf2dol
 # Build artifacts
 tools/asm_processor/tmp/
 build/
+expected/
 *.o
 *.obj
 *.elf
